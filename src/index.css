@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+    padding:0;
+    margin:0;
+    transition:0.3s;
+}
+.customer-header{
+    background-color: #3498db;
+    color:white;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+.customer{
+    background-color:#ffffff;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.customer:hover{
+    background-color:#ececec;
+}
+.customer button{
+    color:white;
+}
+.btn{
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
